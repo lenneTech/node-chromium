@@ -18,4 +18,4 @@ USER node
 
 # Preinstall packages (with the same version as in the app) for faster CI/CD
 # RUN npm install @angular/cli@11.2.5
-RUN npm install cypress@7.2.0
+RUN npm install cypress@7.3.0

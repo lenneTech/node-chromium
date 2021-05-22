@@ -1,10 +1,10 @@
 # node-chromium Docker Image
 
 Docker image with [Node.js](https://nodejs.org/) and [Chromium](https://www.chromium.org/Home) for tests 
-(with headless handling) and preinstalled Cypress (7.2.0) in App directory for faster CI/CD.
+(with headless handling) and preinstalled Cypress (7.3.0) in App directory for faster CI/CD.
 
 ## Version
-Latest version: 0.2
+Latest version: 0.3
 
 ## Build local
 
